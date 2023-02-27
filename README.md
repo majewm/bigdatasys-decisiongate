@@ -1,4 +1,4 @@
-## BigDataSys-DecisionGate
+## BigDataSys - DecisionGate
 
 ### Author: Maciej Majewski
 
@@ -43,26 +43,26 @@
 ![Dashboard #10](/images/dashboard-10.jpg)
 
 ## Technology stack:
-* AWS, Azure, GCP
+* **AWS**, **Azure**, **GCP**
 * Python, Python ecosystem, SQL, ...
 * Data Warehouse, ETL/ELT, PostgreSQL, Debian, Ubuntu, RWD, Bootstrap, Docker, ...
 * Pandas, NumPy, SciPy, Scikit-learn, Tensorflow, PyTorch, Keras, ...
 * Spark, PySpark, Databricks
 * Flask, Django, Matplotlib, Plotly, Seaborn, ...
-* Data Engineering, Data Science, Machine Learning, Deep Learning, Reinforcement Learning, Deep Reinforcement Learning, Decision Intelligence Engineering, Statistics - Statistical Analysis - Statistical Inference, Optimization, Smart Factory, Supply Chain, 
-* Digital Twins, Industrial Data Lake, Industrial Internet of Things (IoT), 
-* AWS ML Stack, AWS Data Stack, AWS Analytics Stack
-* Azure ML Stack, Azure Data Stack, Azure Analytics Stack
 * Azure Cognitive Services, ...
 * Intelligent Interactive Console for Natural Language Processing, Augmented Analytics
 * MATLAB & Toolboxes, Statistica analytics
-* AWS Data Stack: Amazon S3, Amazon Aurora, Amazon DynamoDB, Amazon Redshift, Amazon EMR
-* Azure Machine Learning Stack: Azure Data Science Virtual Machines (DSVM), Jupyter Notebooks, Azure Machine Learning (Jupyter Notebooks)
-* Azure Data Stack: Azure Databricks
-* Azure Analytics Stack: Azure Data Lake Analytics
+* **AWS Machine Learning Stack:** SageMaker Studio, SageMaker DataWrangler, Sagemaker Feature Store, Notebook instances, Jupyter Notebooks
+* **AWS Data Stack:** EC2, Amazon S3, Amazon Aurora, Amazon DynamoDB, Amazon Redshift, Amazon EMR
+* **AWS Analytics Stack:** ...
+* **Azure Machine Learning Stack:** Azure Data Science Virtual Machines (DSVM), Jupyter Notebooks, Azure Machine Learning (Jupyter Notebooks)
+* **Azure Data Stack:** Azure Databricks
+* **Azure Analytics Stack:** Azure Data Lake Analytics
 
 ## Project's features: 
-* data pipelines, data science applications and ML models, statistical modeling
+* Data pipelines, data science applications and ML models, statistical modeling
+* Data Engineering, Data Science, Machine Learning, Deep Learning, Reinforcement Learning, Deep Reinforcement Learning, Decision Intelligence Engineering, Statistics - Statistical Analysis - Statistical Inference, Optimization, Smart Factory, Supply Chain, ...
+* Digital Twins, Industrial Data Lake, Industrial Internet of Things (IoT), ...
 * Statistical Analysis: Descriptive statistics, Inferential statistics (modeling), Probability, Relational statistics
 * Optimization: Deterministic approaches, Stochastic-based techniques, Stochastic learning approaches, Combinatorial optimization, Continuous optimization
 * Data Science: Data mining, Data cleaning, Data exploration, Feature engineering, Predictive modeling, Data visualization
