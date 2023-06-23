@@ -38,9 +38,11 @@
 
 ![Dashboard #9](/images/dashboard-9.jpg)
 
+![Dashboard #9](/images/dashboard-10.jpg)
+
 ### Dashboard for machine learning methods:
 
-![Dashboard #10](/images/dashboard-10.jpg)
+![Dashboard #10](/images/dashboard-11.jpg)
 
 ## Technology stack:
 * **AWS**, **Azure**, **GCP**
